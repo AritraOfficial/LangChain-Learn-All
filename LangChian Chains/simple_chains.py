@@ -4,7 +4,7 @@ from langchain_core.prompts import PromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from langchain_huggingface import ChatHuggingFace, HuggingFaceEndpoint
 from huggingface_hub import login
-import os
+import os   
 os.environ["HF_HOME"] = "D:/Software/huggingface_cache"
 
 
@@ -16,11 +16,11 @@ prompt = PromptTemplate(
     input_variables=['topic']
 )
 
-# model = ChatGoogleGenerativeAI(model="gemini-2.0-flash", temperature=0.1)
+model = ChatGoogleGenerativeAI(model="gemini-2.0-flash", temperature=0.1)
 
-model = ChatHuggingFace(llm = (HuggingFaceEndpoint(repo_id="google/gemma-2-2b-it", task="text-generation")))
+# model = ChatHuggingFace(llm = (HuggingFaceEndpoint(repo_id="google/gemma-2-2b-it", task="text-generation")))
 
-parser = StrOutputParser()
+parser = StrOutputParser()  
 
 chain = prompt | model | parser
 
@@ -28,4 +28,4 @@ result = chain.invoke({'topic':'RAG (Retrieval Augmented Generation)'})
 
 print(result)
 
-# chain.get_graph().print_ascii()
+chain.get_graph().print_ascii()
