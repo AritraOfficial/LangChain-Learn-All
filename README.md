@@ -1,4 +1,6 @@
-﻿# LnagChain-Learn-All
+<p align="center"><img src="https://github.com/user-attachments/assets/a0642af5-5812-44aa-b5b6-bf8ebe5c148b" alt="Footer Note" width="300"/></p>
+
+--- 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=AritraOfficial&label=LangChian-Learn-All%20Repo%20Views&color=74a892&style=flat-square" alt="LangChian-Learn-All Repo View Counter" /></p>
 
 ---
@@ -12,3 +14,21 @@ Whether you're a beginner exploring LangChain for the first time or someone look
 ---
 
 Stay tuned and keep learning! 🚀
+
+---
+
+## 🌐 Contact With Me:
+<a href="https://arim-official.netlify.app/"><img src="https://img.icons8.com/?size=100&id=795qk1cgVrmZ&format=png&color=000000" width="45" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/aritramukherjeeofficial/"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="45" alt="LinkedIn" /></a>
+<a href="https://topmate.io/aritram_official/"><img src="https://topmate.io/favicon.svg" width="40" alt="Topmate" /></a>
+<a href="https://discord.com/users/am_official_"><img src="https://cdn.simpleicons.org/discord/7289DA" width="40" alt="Discord" /></a>
+<a href="https://www.instagram.com/aritramukherjee_official/?__pwa=1"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" alt="Instagram" /></a> 
+<a href="https://www.facebook.com/aritra.mukherjee.35762241"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="38" alt="Facebook" /></a>
+<a href="https://x.com/aritramofficial"><img src="https://cdn.simpleicons.org/x/FFFFFF" width="37" alt="X" /></a>
+<a href="mailto:aritra.work.official@gmail.com"><img src="https://cdn.simpleicons.org/gmail/D14634" width="40" alt="Email" /></a>
+
+---
+<p align="center" style="color:gray">
+  <sub><i>© 2025 AriM. Official • For educational and learning purposes only.</i></sub>
+</p>
+
