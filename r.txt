@@ -25,6 +25,7 @@ python-dotenv
 # Machine Learning Utilities
 numpy
 scikit-learn
+<<<<<<< HEAD
 
 grandalf
 groq
@@ -32,3 +33,5 @@ langchain-groq
 
 
 faiss-cpu
+=======
+>>>>>>> 33d796907c3a3731e12ed09fd2756474388a6616
